@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "tipo": "perro",
+    "color": "blanco",
+    "enfermedad": "vómitos"
+  },
+  {
+    "nombre": "Brandy",
+    "edad": "16 años",
+    "tipo": "perro",
+    "color": "blanco",
+    "enfermedad": "control"
+  }
+]
